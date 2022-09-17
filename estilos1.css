@@ -1,0 +1,18 @@
+.cuerpo{
+    background-color: gray;
+    padding: 100px;
+    text-align: center;
+}
+.cuerpo2{
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+}
+.imagen{
+    display: flex;
+    align-items: center;
+    height: 300px;
+    font-weight: 300;
+
+    padding: 30px 25px;
+}
